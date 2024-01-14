@@ -1,0 +1,24 @@
+input[type="number"]{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 40px;
+}
+form {
+    width: 50%;
+
+}
+#grid-container {
+    display: grid;
+    margin-top: 50px;
+}
+.grid-item {
+    padding: 15px;
+    width: 30px;
+    text-align: center;
+  }
+.gridParent {
+    margin: 0px;
+    text-align: center;
+    min-height: 32px;
+    min-width: 32px;
+}
